@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         outputText = findViewById(R.id.output);
 
         // Очищаем поля при запуске
+        // тестовая строка
         inputText.setText("");
         outputText.setText("");
 
